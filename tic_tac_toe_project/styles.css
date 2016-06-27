@@ -1,0 +1,25 @@
+.box {
+  display: inline-block;
+  position: inline;
+  margin: 2%;
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-color: lightgrey;
+}
+
+
+.container {
+
+  width: 400px;
+  margin-left: 150px;
+  margin-right: 550px;
+  margin-top: 50px;
+
+
+
+}
+.row {
+  width: 400px;\
+
+}
